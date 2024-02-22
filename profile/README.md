@@ -12,7 +12,6 @@ We believe in the power of collaboration, and we encourage community involvement
 - **Documentation**: Find our detailed documentation at [Docs Link](link-to-docs).
 - **Community Forum**: Join our discussions on [Community Forum Link](link-to-forum).
 - **Issue Tracker**: Report issues or suggest improvements on our [Issue Tracker](link-to-issue-tracker).
-- **Chat with Us**: Connect with us on [Chat Link](link-to-chat).
 
 ### 🍿 Fun Facts
 Ever wondered what our team eats for breakfast? Well, here's a fun fact: [share a lighthearted or interesting fact about the team].
