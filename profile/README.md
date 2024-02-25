@@ -6,7 +6,7 @@
 At Incomplete-Infinity, we are passionate about computer programming. Whether you're a seasoned developer or just starting your coding journey, we welcome you to be a part of our community.
 
 ### 🌈 Contribution Guidelines
-We believe in the power of collaboration, and we encourage community involvement. If you'd like to contribute, please check our [Contribution Guidelines](link-to-contribution-guidelines) for detailed information on how to get started. We appreciate all forms of contributions, from bug reports to feature enhancements.
+We believe in the power of collaboration, and we encourage community involvement. If you'd like to contribute, please check our [Contribution Guidelines](https://github.com/Incomplete-Infinity/.github/blob/main/contribution-guidelines.md) for detailed information on how to get started. We appreciate all forms of contributions, from bug reports to feature enhancements.
 
 ### 👩‍💻 Useful Resources
 - **Documentation**: Find our detailed documentation at [Docs Link](link-to-docs).
