@@ -13,10 +13,7 @@ We believe in the power of collaboration, and we encourage community involvement
 - **Community Forum**: Join our discussions on [Community Forum Link](link-to-forum).
 - **Issue Tracker**: Report issues or suggest improvements on our [Issue Tracker](link-to-issue-tracker).
 
-### 🍿 Fun Facts
-Ever wondered what our team eats for breakfast? Well, here's a fun fact: [share a lighthearted or interesting fact about the team].
-
 ### 🧙 Markdown Magic
 Feel the power of Markdown! Check out the [Markdown Guide](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to unleash your creativity in our documentation and discussions.
 
-Thank you for being a part of [Your Organization Name]! 🚀 Happy coding!
+Thank you for being a part of Incomplete-Infinity! 🚀 Happy coding!
