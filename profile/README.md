@@ -1,8 +1,6 @@
-# Incomplete Infinity
+# ![Incomplete Infinity](https://github.com/user-attachments/assets/00e551eb-0b6f-4e2a-a34e-2af5e4949252)
 
 ## Welcome to Incomplete Infinity GitHub Organization! 🚀
-
-![Incomplete Infinity](https://github.com/user-attachments/assets/00e551eb-0b6f-4e2a-a34e-2af5e4949252)
 
 ### 🙋‍♀️ About Us
 At Incomplete Infinity, we are passionate about computer programming. Whether you're a seasoned developer or just starting your coding journey, we welcome you to be a part of our community.
