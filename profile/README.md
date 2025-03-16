@@ -1,9 +1,11 @@
-# Hi there 👋
+# Incomplete Infinity
 
-## Welcome to Incomplete-Infinity GitHub Organization! 🚀
+## Welcome to Incomplete Infinity GitHub Organization! 🚀
+
+![Incomplete Infinity](https://github.com/user-attachments/assets/00e551eb-0b6f-4e2a-a34e-2af5e4949252)
 
 ### 🙋‍♀️ About Us
-At Incomplete-Infinity, we are passionate about computer programming. Whether you're a seasoned developer or just starting your coding journey, we welcome you to be a part of our community.
+At Incomplete Infinity, we are passionate about computer programming. Whether you're a seasoned developer or just starting your coding journey, we welcome you to be a part of our community.
 
 ### 🌈 Contribution Guidelines
 We believe in the power of collaboration, and we encourage community involvement. If you'd like to contribute, please check our [Contribution Guidelines](https://github.com/Incomplete-Infinity/.github/blob/main/contribution-guidelines.md) for detailed information on how to get started. We appreciate all forms of contributions, from bug reports to feature enhancements.
@@ -16,4 +18,4 @@ We believe in the power of collaboration, and we encourage community involvement
 ### 🧙 Markdown Magic
 Feel the power of Markdown! Check out the [Markdown Guide](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) to unleash your creativity in our documentation and discussions.
 
-Thank you for being a part of Incomplete-Infinity! 🚀 Happy coding!
+Thank you for being a part of Incomplete Infinity! 🚀 Happy coding!
